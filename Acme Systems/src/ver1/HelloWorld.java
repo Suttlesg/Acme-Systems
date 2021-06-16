@@ -9,5 +9,10 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
 	}
+	
+	public static void whatFor(String fname) {
+		System.out.println(fname + ", what for?");
+	}
+
 
 }
